@@ -1,0 +1,12 @@
+{
+  "name": "dashq-mock",
+  "version": "1.0.0",
+  "description": "Mock of the NFR page",
+  "main": "index.js",
+  "repository": "/Users/lukasz/Projects/DashQ/3D_chart/dashq-mock/../../_Local_remote_repos/dashq-mock.git",
+  "author": "Lukasz Przewlocki <lukasz.przewlocki@sky.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
